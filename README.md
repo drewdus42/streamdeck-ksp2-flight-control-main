@@ -1,3 +1,8 @@
+##THIS PLUGIN HAS BEEN UPDATED, IT NOW WORKS FOR KSP1 and KSP2 WITH COMPANION MODS FOR EACH
+NEW UPDATED REPO: https://github.com/drewdus42/KSP1-KSP2-FlightDeck
+
+
+
 [![ugpqxmycib9c1.jpg](https://i.postimg.cc/tJXbqKpC/ugpqxmycib9c1.jpg)](https://postimg.cc/9RNK1NDv)
 
 # Streamdeck KSP2 Flight Control
